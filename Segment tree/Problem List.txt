@@ -1,0 +1,14 @@
+1)LightOJ 1424 - New Land (Stack Problem [Histogram] )
+2)SPOJ BRCKTS - Brackets
+
+
+Avoid LP, first week.
+
+Extra-
+http://codeforces.com/blog/entry/15890
+https://www.youtube.com/watch?v=Tr-xEGoByFQ
+https://www.youtube.com/watch?v=CN0N1ddJ9hA&feature=youtu.be
+https://www.youtube.com/watch?v=TH9n_HVkjQM
+https://www.youtube.com/watch?v=WKz1sP6KOsU
+
+and more searching
